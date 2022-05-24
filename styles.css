@@ -1,12 +1,8 @@
 body {
-    /*background-color: rgb(30, 30, 30);*/
     background-color: rgb(30, 30, 30);
     color: rgb(230, 230, 230);
     margin: auto;
     position: relative;
-    /*background-image: url("ic-n-bg/blackSpace.jpg");
-    background-size: cover;
-    background-attachment: fixed;*/
 }
 
 body::before {
